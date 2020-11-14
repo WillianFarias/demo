@@ -79,45 +79,10 @@
          "url":"https://github.com/facebook/watchman",
          "createdAt":"2018-08-08T18:21:49.787Z",
          "__v":0
-      },
-    {
-         "_id":"5b6b31eb31762700049b33df",
-         "title":"React Native",
-         "description":"A framework for building native apps with React.",
-         "url":"https://github.com/facebook/react-native",
-         "createdAt":"2018-08-08T18:09:47.706Z",
-         "__v":0
-      },
-      ,
-    {
-         "_id":"5b6b31eb31762700049b33df",
-         "title":"React Native",
-         "description":"A framework for building native apps with React.",
-         "url":"https://github.com/facebook/react-native",
-         "createdAt":"2018-08-08T18:09:47.706Z",
-         "__v":0
-      },
-      ,
-    {
-         "_id":"5b6b31eb31762700049b33df",
-         "title":"React Native",
-         "description":"A framework for building native apps with React.",
-         "url":"https://github.com/facebook/react-native",
-         "createdAt":"2018-08-08T18:09:47.706Z",
-         "__v":0
-      },
-      ,
-    {
-         "_id":"5b6b31eb31762700049b33df",
-         "title":"React Native",
-         "description":"A framework for building native apps with React.",
-         "url":"https://github.com/facebook/react-native",
-         "createdAt":"2018-08-08T18:09:47.706Z",
-         "__v":0
       }
    ],
-   "total":13,
-   "limit":10,
+   "total":10,
+   "limit":5,
    "page":1,
    "pages":2
 }
